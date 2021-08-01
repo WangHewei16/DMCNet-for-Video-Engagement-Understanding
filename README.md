@@ -1,11 +1,15 @@
 # Understanding Engagement from Video Screengrabs
 
 
-## Code Organization
+### Executive summary
+Engagement is a key indicator of the quality-of-learning experience (QoLE) and plays a major role in developing intelligent educational interfaces. The number of people learning through Massively Open Online Courses (MOOCs) and other online resources has been increasing rapidly because they provide you the flexibility to learn from anywhere at any time, so to provide a good learning experience such interface requires the ability to recognize the level of engagement in order to respond appropriately; however, there is very little existing data to learn from, and new data is expensive and difficult to acquire. This paper presents a variety of models that have been trained on a given data set. We explain in detail how each model was prepared and trained. To show how each model performs we have used a variety of metrics like the Gini Index, AGF (Adjusted F-Measure), AUC, etc, To understand how data is distributed we use various dimensionality reduction techniques like PCA and t-SNE with their plots for our data set. We explain in detail why we chose them and the mathematics behind them.
+
+
+### Code Organization
 All code are written in Python3
 
 
-## Dependencies
+### Dependencies
 
 The following libraries should be installed before the execution of the codes.
 
@@ -29,10 +33,10 @@ The following libraries should be installed before the execution of the codes.
 
 	•scikit-learn                  0.22.1
 
-## Data
+### Data
 The data source in this work is https://github.com/e-drishti/wacv2016.
 
-## File Descriptions
+### File Descriptions
 
 	•box_plot.ipynb - Contains the code for the box plot.
 
