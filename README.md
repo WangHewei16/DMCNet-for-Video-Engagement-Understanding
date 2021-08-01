@@ -57,3 +57,5 @@ The data source in this work is https://github.com/e-drishti/wacv2016.
 	•DenseNet-121_based_classification.ipynb - Contains the code for the DenseNet-121 based implementation technique.
 	
 	•ResNet-18_based_classification.ipynb - Contains the code for the ResNet-18 based implementation technique.
+	
+	•MobileNetV1_based_classification.ipynb - Contains the code for the MobileNetV1 based implementation technique.
