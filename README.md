@@ -1,8 +1,11 @@
-# Code Organization
+# Understanding Engagement from Video Screengrabs
+
+
+## Code Organization
 All code are written in Python3
 
 
-# Dependencies
+## Dependencies
 
 The following libraries should be installed before the execution of the codes.
 
@@ -26,10 +29,10 @@ The following libraries should be installed before the execution of the codes.
 
 	•scikit-learn                  0.22.1
 
-# Data
+## Data
 The data source in this work is https://github.com/e-drishti/wacv2016.
 
-# File Descriptions
+## File Descriptions
 
 	•box_plot.ipynb - Contains the code for the box plot.
 
