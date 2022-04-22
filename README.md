@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> S. Batra, H. Wang, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *under review*, 2022.
+> S. Batra, H. Wang, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022.
 
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
@@ -43,24 +43,24 @@ The data source in this work is https://github.com/e-drishti/wacv2016.
 
 ### File Descriptions
 
-	•box_plot.ipynb - Contains the code for the box plot.
+• `box_plot.ipynb` - Contains the code for the box plot.
 
-	•PCA_WACV_DATASET.ipynb - Contains the code for the PCA plot.
+• `PCA_WACV_DATASET.ipynb` - Contains the code for the PCA plot.
 
-	•TSNE_plots.ipynb - Contains the code for the TSNE plot.
+• `TSNE_plots.ipynb` - Contains the code for the TSNE plot.
 
-	•CNN_based_Engagement_Analysis.ipynb - Contains the code for the CNN based implementation technique.
+• `CNN_based_Engagement_Analysis.ipynb` - Contains the code for the CNN based implementation technique.
 
-	•hog+CNN_based_classification.ipynb - Contains the code for the HOG+CNN based implementation technique.
+• `hog+CNN_based_classification.ipynb` - Contains the code for the HOG+CNN based implementation technique.
 
-	•hog_sift_based_engagement_analysis.ipynb - Contains the code for the HOG+SIFT+SVM based implementation technique.
+• `hog_sift_based_engagement_analysis.ipynb` - Contains the code for the HOG+SIFT+SVM based implementation technique.
 
-	•hog_svm_based_classification.ipynb - Contains the code for the HOG+SVM based implementation technique.
+• `hog_svm_based_classification.ipynb` - Contains the code for the HOG+SVM based implementation technique.
 
-	•surf_based_engagement_analysis.ipynb - Contains the code for the SURF+SVM based implementation technique.
+• `surf_based_engagement_analysis.ipynb` - Contains the code for the SURF+SVM based implementation technique.
 
-	•DenseNet-121_based_classification.ipynb - Contains the code for the DenseNet-121 based implementation technique.
+• `DenseNet-121_based_classification.ipynb` - Contains the code for the DenseNet-121 based implementation technique.
 	
-	•ResNet-18_based_classification.ipynb - Contains the code for the ResNet-18 based implementation technique.
+• `ResNet-18_based_classification.ipynb` - Contains the code for the ResNet-18 based implementation technique.
 	
-	•MobileNetV1_based_classification.ipynb - Contains the code for the MobileNetV1 based implementation technique.
+• `MobileNetV1_based_classification.ipynb` - Contains the code for the MobileNetV1 based implementation technique.
