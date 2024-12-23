@@ -5,7 +5,7 @@ With the spirit of reproducible research, this repository contains codes require
 > S. Batra, H. Wang, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022.
 
 ## Citing DMCNet
-If you find DMCNet useful in your research, please consider citing our [paper](https://arxiv.org/abs/2402.19407).
+If you find DMCNet useful in your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/pii/S2772941922000059).
 ```
 @article{BATRA2022200039,
 title = {DMCNet: Diversified model combination network for understanding engagement from video screengrabs},
