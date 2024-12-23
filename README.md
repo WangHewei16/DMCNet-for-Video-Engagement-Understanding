@@ -20,23 +20,14 @@ All code are written in `Python3`.
 The following libraries should be installed before the execution of the codes.
 
 	•Pillow                        6.2.1
-
 	•pycm                          2.8
-
 	•pandas                        0.25.3
-
 	•matplotlib                    3.1.2
-
 	•numpy                         1.15.4
-
 	•opencv-python                 4.2.0.34
-
 	•torch                         1.2.0
-
 	•torchvision                   0.4.0
-
 	•tqdm                          4.41.1
-
 	•scikit-learn                  0.22.1
 
 ### Data
