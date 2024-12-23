@@ -4,7 +4,21 @@ With the spirit of reproducible research, this repository contains codes require
 
 > S. Batra, H. Wang, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022.
 
-Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
+## Citing DMCNet
+If you find DMCNet useful in your research, please consider citing our [paper](https://arxiv.org/abs/2402.19407).
+```
+@article{BATRA2022200039,
+title = {DMCNet: Diversified model combination network for understanding engagement from video screengrabs},
+journal = {Systems and Soft Computing},
+volume = {4},
+pages = {200039},
+year = {2022},
+issn = {2772-9419},
+doi = {https://doi.org/10.1016/j.sasc.2022.200039},
+author = {Sarthak Batra and Hewei Wang and Avishek Nag and Philippe Brodeur and Marianne Checkley and Annette Klinkert and Soumyabrata Dev},
+}
+```
+This code is only for academic and research purposes.
 
 ### Executive summary
 Engagement is an essential indicator of the Quality-of-Learning Experience (QoLE) and plays a major role in developing intelligent educational interfaces. The number of people learning through Massively Open Online Courses (MOOCs) and other online resources has been increasing rapidly because they provide you with the flexibility to learn from anywhere at any time, so to provide a good learning experience such interface requires the ability to recognize the level of engagement to respond appropriately; however, there is very little existing data to learn from, and new data is expensive and difficult to acquire. This paper proposes a variety of models that have been trained on a given data set, non-deep learning models based on the combination of some algorithm such as Convolutional Neural Network (CNN), Histogram of Oriented Gradient (HOG), Support Vector Machine (SVM), Scale Invariant Feature Transform (SIFT) and Speeded Up Robust Features (SURF). Deep learning methods include Densely Connected Convolutional Networks (DenseNet-121), Residual Network (ResNet-18) and MobileNetV1. We also explain in detail how each model was prepared and trained. To show the performance of each model, we use a variety of metrics such as the Gini Index, Adjusted F-Measure (AGF), Area Under ROC Curve (AUC), etc, and to understand how data is distributed, we use various dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) with their plots for our dataset.
